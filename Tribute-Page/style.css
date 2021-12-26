@@ -1,0 +1,98 @@
+<style>
+body{
+  margin: 75px;
+}
+
+title{
+  font-family:  Courier
+}
+
+#main{
+  background-color: #D1D0D0;
+  font-size: 25px;
+  font-family: Courier New;
+  text-align: center;
+  font-color: #686666;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 10px;
+}
+
+.image-size{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 10px;
+}
+
+#img-caption p{
+  margin: 5px;
+  font-family:  Courier;
+  font-color: #686666;
+  text-align: center;
+}
+
+#quotes{
+  margin: 10px;
+  font-family: Courier;
+  font-color: #686666;
+  text-align: center;
+}
+
+#info{
+  margin:10px;
+  width: 100%;
+  font-size: large;
+  font-family: Courier New;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 7px solid lightgrey;
+  border-radius: 10px;
+  background-color: #D5CFCE;
+}
+
+.row{
+  display: flex;
+  border-radius: 10px;
+}
+
+.column{
+  flex: 33.33%;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.img-cpation{
+  text-align: center;
+  font-family: Courier;
+}
+
+.img-caption1{
+  text-align: center;
+  font-family: Courier
+}
+
+#achivements{
+  font-size: large;
+  margin:10px;
+  width: 100%;
+  font-family: Courier New;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 7px solid lightgrey;
+  border-radius: 10px;
+  background-color: #D5CFCE;
+}
+
+.sign{
+  border-radius: 10px;
+}
+
+.link{
+  font-family: Courier New;
+}
+
+  
+</style>
